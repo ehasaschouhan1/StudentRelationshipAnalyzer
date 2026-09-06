@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# PyInstaller files
+build/
+*.spec
+
+# Local database
+students.db
+
+# VS Code settings
+.vscode/
+
+# Python test/cache files
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
